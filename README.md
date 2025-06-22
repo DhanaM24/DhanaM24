@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhananji Mansala Pallegedara</h1>
+<h1 align="center">Hi 👋, I'm Dhananji Pallegedara</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanam24&label=Profile%20views&color=0e75b6&style=flat" alt="dhanam24" /> </p>
