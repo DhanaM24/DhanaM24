@@ -11,7 +11,7 @@
 - 💬 Ask me about **HTML, CSS, JavaScript, Java, C, Python, SQL**
 
 
-- 📫 How to reach me **dhananjipallegedaras44@gmail.com**
+- 📫 How to reach me **dhananjipallegedara432@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
