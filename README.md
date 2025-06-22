@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Dhananji Pallegedara</h1>
-<h3 align="center">A passionate full stack developer from Sri Lanka</h3>
+<h3 align="center">A passionate Full stack developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanam24&label=Profile%20views&color=0e75b6&style=flat" alt="dhanam24" /> </p>
 
 
 - 🔭 I’m currently working on **Fish Farming CRUD System**
 
-- 🌱 I’m currently learning **Node JS, API, React JS, MongoDB,**
+- 🌱 I’m currently learning **MERN Stack (MongoDB, Express.js, React.js, Node.js)**
 
-- 💬 Ask me about **HTML,CSS,JS,C,JAVA**
+- 💬 Ask me about **HTML, CSS, JavaScript, Java, C, Python, SQL**
+
 
 - 📫 How to reach me **dhananjipallegedaras44@gmail.com**
 
