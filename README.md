@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN Stack (MongoDB, Express.js, React.js, Node.js)**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Java, C, Python, SQL**
+- 💬 Ask me about **HTML, CSS, PHP, JavaScript, Java, C, Python, SQL**
 
 
 - 📫 How to reach me **dhananjipallegedara432@gmail.com**
