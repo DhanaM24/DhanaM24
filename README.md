@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Nexar_Caree-Path-Help-System**
 
-- 🌱 I’m currently learning **MERN Stack (MongoDB, Express.js, React.js, Node.js)**
+- 🌱 I’m currently learning **MERN Stack (MongoDB, Express.js, React.js, Node.js)  , Springboot**
 
 - 💬 Ask me about **HTML, CSS, PHP, JavaScript, Java, C, Python, SQL**
 
