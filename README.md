@@ -251,8 +251,9 @@ A digital campus management solution designed to improve student services, campu
 
 ---
 
-### ✨ Thanks for visiting my GitHub profile 😊✨
 <div align="center">
+
+### ✨ Thanks for visiting my GitHub profile 😊✨
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer" />
 
