@@ -1,20 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Hi%20👋%20I'm%20Dhananji%20Pallegedara&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Learner%20%7C%20Sri%20Lanka&descAlignY=55&descSize=18" />
+# Hi 👋, I'm Dhananji Pallegedara
 
-</div>
+### 🚀 Full Stack Developer from Sri Lanka
 
-<div align="center">
+### Passionate about MERN Stack, Spring Boot, and building real-world software solutions
 
-### 🚀 Passionate Full Stack Developer from Sri Lanka
-
-### 💻 Building modern, responsive, and user-friendly web applications
-
-</div>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=dhanam24&label=Profile%20Views&color=00c9ff&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=dhanam24&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 </div>
 
@@ -22,63 +14,74 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
-
-Hi! I'm **Dhananji Pallegedara**, a passionate developer who loves creating practical software solutions and beautiful user interfaces.
-
-* 🔭 Currently working on **Nexar Career Path Help System**
-* 🏫 Also working on **Smart Campus Operations Hub**
-* 🌱 Currently learning **MERN Stack** and **Spring Boot**
+* 🔭 I’m currently working on **Nexar Career Path Help System** and **Smart Campus Operations Hub**
+* 🌱 I’m currently learning **MERN Stack** and **Spring Boot**
+* 💻 I enjoy working with **Web Development, Backend Development, and Database Systems**
 * 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, Java, PHP, Python, SQL**
-* 🎯 Interested in **Full Stack Development, UI Design, Backend APIs, and Database Systems**
 * 📫 Reach me at **[dhananjipallegedara432@gmail.com](mailto:dhananjipallegedara432@gmail.com)**
 * 🌍 Based in **Sri Lanka**
 
-<br clear="right"/>
+---
+
+## 🔗 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/dhananji-pallegedara" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Dhananji%20Pallegedara-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:dhananjipallegedara432@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/dhanam24" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-dhanam24-black?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
-## 🌐 Connect with Me
+## 🛠️ Languages and Tools
 
-<div align="center">
-
-<a href="https://linkedin.com/in/dhananji-pallegedara" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Dhananji%20Pallegedara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:dhananjipallegedara432@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/dhanam24" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-dhanam24-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,mysql,java,python,c,php,git,github,figma,postman,linux,kotlin,flask" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
-<div align="center">
+### Frontend
 
-### Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,figma" />
+### Backend
 
-### Backend Development
+<p>
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-brightgreen?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php&logoColor=white" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,php,python,flask" />
+### Database
 
-### Database & Tools
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,postman,linux,vscode" />
+### Tools
 
-### Other Technologies
-
-<img src="https://skillicons.dev/icons?i=c,kotlin" />
-
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 
 ---
 
@@ -88,24 +91,37 @@ Hi! I'm **Dhananji Pallegedara**, a passionate developer who loves creating prac
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center" valign="top">
 
-### 🌐 Nexar Career Path Help System
+<h3>🌐 Nexar Career Path Help System</h3>
 
-A smart career guidance platform designed to help users discover suitable career paths, improve planning, and make better academic or professional decisions.
+<p>
+A smart career guidance platform that helps users explore suitable career paths and make better academic or professional decisions.
+</p>
 
-**Tech Stack:**
-`MongoDB` `Express.js` `React.js` `Node.js`
+<p>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+</p>
 
 </td>
-<td width="50%">
 
-### 🏫 Smart Campus Operations Hub
+<td width="50%" align="center" valign="top">
 
-A campus management system focused on improving campus operations, student services, and administrative processes through smart digital solutions.
+<h3>🏫 Smart Campus Operations Hub</h3>
 
-**Tech Stack:**
-`MERN Stack` `React.js` `Node.js` `MongoDB`
+<p>
+A digital campus management solution designed to improve student services, campus operations, and administrative workflows.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/MERN-00C9FF?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
 
 </td>
 </tr>
@@ -115,29 +131,71 @@ A campus management system focused on improving campus operations, student servi
 
 ---
 
-## 📊 GitHub Analytics
+## 🧠 What I Focus On
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=dhanam24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=92FE9D&text_color=ffffff" />
+<table>
+<tr>
+<td align="center" width="25%" valign="top">
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanam24&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C9FF&ring=92FE9D&fire=00C9FF&currStreakLabel=92FE9D" />
+<h2>🎯</h2>
+<h3>Problem Solving</h3>
+<p>Finding simple solutions for real-world problems</p>
 
-</div>
+</td>
 
-<div align="center">
+<td align="center" width="25%" valign="top">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanam24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=ffffff" />
+<h2>🎨</h2>
+<h3>UI Design</h3>
+<p>Creating clean and responsive user interfaces</p>
+
+</td>
+
+<td align="center" width="25%" valign="top">
+
+<h2>⚙️</h2>
+<h3>Backend Logic</h3>
+<p>Building APIs and server-side features</p>
+
+</td>
+
+<td align="center" width="25%" valign="top">
+
+<h2>📚</h2>
+<h3>Continuous Learning</h3>
+<p>Improving step by step every day</p>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dhanam24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=dhanam24&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanam24&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanam24&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=dhanam24&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 
 </div>
 
@@ -147,42 +205,17 @@ A campus management system focused on improving campus operations, student servi
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanam24&bg_color=0D1117&color=00C9FF&line=92FE9D&point=FFFFFF&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanam24&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
 ---
 
-## 💡 Developer Mindset
+## ✨ Quote
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
-  <h3>🎨 Design</h3>
-  <p>I love creating clean, attractive, and user-friendly interfaces.</p>
-</td>
-<td align="center" width="33%">
-  <h3>⚙️ Development</h3>
-  <p>I enjoy building full-stack applications with practical features.</p>
-</td>
-<td align="center" width="33%">
-  <h3>📚 Learning</h3>
-  <p>I continuously improve my skills in MERN Stack and Spring Boot.</p>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## ✨ Quote I Believe In
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=800&lines=Code+is+not+only+about+solving+problems;It+is+about+creating+better+experiences;Keep+learning,+keep+building,+keep+growing" />
+### “Code is not just about solving problems, it is about creating better experiences.”
 
 </div>
 
@@ -190,6 +223,6 @@ A campus management system focused on improving campus operations, student servi
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer" />
+### Thanks for visiting my profile! 😊
 
 </div>
